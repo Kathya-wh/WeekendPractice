@@ -1,0 +1,13 @@
+C:\Users\white\repos\WeekendPractice\WeekendPractice\bin\Debug\netcoreapp3.1\WeekendPractice.exe
+C:\Users\white\repos\WeekendPractice\WeekendPractice\bin\Debug\netcoreapp3.1\WeekendPractice.deps.json
+C:\Users\white\repos\WeekendPractice\WeekendPractice\bin\Debug\netcoreapp3.1\WeekendPractice.runtimeconfig.json
+C:\Users\white\repos\WeekendPractice\WeekendPractice\bin\Debug\netcoreapp3.1\WeekendPractice.runtimeconfig.dev.json
+C:\Users\white\repos\WeekendPractice\WeekendPractice\bin\Debug\netcoreapp3.1\WeekendPractice.dll
+C:\Users\white\repos\WeekendPractice\WeekendPractice\bin\Debug\netcoreapp3.1\WeekendPractice.pdb
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.csprojAssemblyReference.cache
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.AssemblyInfoInputs.cache
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.AssemblyInfo.cs
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.csproj.CoreCompileInputs.cache
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.dll
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.pdb
+C:\Users\white\repos\WeekendPractice\WeekendPractice\obj\Debug\netcoreapp3.1\WeekendPractice.genruntimeconfig.cache
